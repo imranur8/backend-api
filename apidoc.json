@@ -1,0 +1,7 @@
+{
+  "name": "Backend API",
+  "version": "1.0.0",
+  "description": "Express REST API server documentations.",
+  "title": "Express REST API server documentations.",
+  "url": "http://locahost:4000/v1/api"
+}
