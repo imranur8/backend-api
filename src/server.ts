@@ -1,4 +1,4 @@
-import { ApolloServer, } from "apollo-server-express";
+import { ApolloServer } from "apollo-server-express";
 import bodyParser from "body-parser";
 import compression from "compression";
 import cors from "cors";
